@@ -1,0 +1,16 @@
+NAME: DELFI-C3/DO-64
+LAUNCHED: 2008/04/29@07:23:42 UTC
+SITE: India
+STATUS: Linear Transponder Mode
+MODE: Linear Transponder
+BEACON: 145.870 CW
+DNLINK: 145.870 FM Voice/1200 Baud BPSK AX.25
+DNLINK: 145.930 FM Voice/1200 Baud BPSK AX.25
+DNLINK: 145.880 Linear Transponder inverting
+DNLINK: 145.900 Linear Transponder inverting
+DNLINK: 145.920 Linear Transponder inverting
+UPLINK: 435.570 Linear Transponder inverting
+UPLINK: 435.550 Linear Transponder inverting
+UPLINK: 435.530 Linear Transponder inverting
+
+

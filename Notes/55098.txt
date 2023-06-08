@@ -5,3 +5,5 @@ BEACON: 145.850
 DNLINK: 145.850 FM Digi
 UPLINK: 145.850
 NOTES: https://www.bdsat.cz/
+
+
