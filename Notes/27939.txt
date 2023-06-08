@@ -1,0 +1,6 @@
+NAME: RS-22
+LAUNCHED: 27 September, 2003
+SITE: Baikonur Cosmodrome
+STATUS: Operational
+BEACON: 435.3520 CW
+
