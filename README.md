@@ -1,2 +1,2 @@
 # Orbitron
-Orbitron Satellite tracking
+Notes/*.txt - Orbitron Satellite frequency definition files.
