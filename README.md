@@ -3,7 +3,7 @@ Notes/*.txt - Orbitron Satellite frequency definition files.
 
 ## Possible file variables:
 
-Below an extensive example based on the International Space Station
+Below an extensive example based on the International Space Station (Notes/25544.txt)
 
 ```
 NAME: International Space Station ISS
